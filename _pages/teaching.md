@@ -1,15 +1,24 @@
 ---
 layout: page
-permalink: /teaching/
 title: Teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Teaching Philosophy
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+My teaching is built around a simple principle: students should understand the economic substance behind accounting numbers before learning the mechanics used to produce them. I use intuitive business problems and real-world financial statements to help students understand why accounting rules exist before introducing their technical application.
 
-{% include courses.liquid %}
+I also incorporate emerging technologies into the classroom by emphasizing how students should evaluate, verify, and take responsibility for AI-assisted accounting analysis rather than simply using technology to produce answers.
+
+## Teaching Experience
+
+### Baruch College, Zicklin School of Business
+
+**ACC 2101 — Principles of Accounting**  
+Instructor
+
+Introductory financial accounting for undergraduate students. Topics include financial statement preparation and analysis, the accounting cycle, revenue recognition, inventory, long-lived assets, liabilities, and shareholders' equity.
+
+[Teaching Statement](/assets/pdf/Teaching_Statement_Haozheng_Wang.pdf)  
