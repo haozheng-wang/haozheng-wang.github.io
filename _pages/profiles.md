@@ -16,7 +16,7 @@ nav_order: 5
     Zicklin School of Business<br>
     Baruch College, CUNY<br>
     <em>Dissertation Committee Chair</em><br>
-    <a href="mailto:EMAIL_HERE">Email</a>
+    <a href="mailto:Kalin.Kolev@baruch.cuny.edu">Email</a>
   </div>
 
   <div class="col-sm-6 mb-5">
@@ -24,15 +24,17 @@ nav_order: 5
     <strong>Associate Professor of Accountancy</strong><br>
     Zicklin School of Business<br>
     Baruch College, CUNY<br>
-    <a href="mailto:EMAIL_HERE">Email</a>
+    <a href="mailto:Heedong.Kim@baruch.cuny.edu">Email</a>
   </div>
+  
+<div style="height: 24px;"></div>
 
   <div class="col-sm-6 mb-5">
     <h4>Dexin Zhou</h4>
     <strong>OFFICIAL TITLE</strong><br>
     Zicklin School of Business<br>
     Baruch College, CUNY<br>
-    <a href="mailto:EMAIL_HERE">Email</a>
+    <a href="mailto:Dexin.Zhou@baruch.cuny.edu">Email</a>
   </div>
 
   <div class="col-sm-6 mb-5">
@@ -40,7 +42,8 @@ nav_order: 5
     <strong>OFFICIAL TITLE</strong><br>
     SCHOOL / DEPARTMENT<br>
     UNIVERSITY<br>
-    <a href="mailto:EMAIL_HERE">Email</a>
+    <a href="mailto:Edgar.Rodriguez-vazquez@
+baruch.cuny.edu">Email</a>
   </div>
 
 </div>
