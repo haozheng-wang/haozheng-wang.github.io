@@ -1,65 +1,39 @@
 ---
 layout: page
+permalink: /research/
 title: Research
-permalink: /projects/
-description: A growing collection of your cool projects.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 2
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+## Job Market Paper
 
-{% else %}
+### The Human Capital Behind Accounting Estimates: Evidence from CECL Adoption
 
-<!-- Display projects without categories -->
+I examine how an information-intensive accounting standard affects the employees responsible for producing accounting estimates and whether their working conditions matter for estimate quality. I find that CECL adoption strains risk-management employees responsible for implementing the standard. I also find that the informativeness of credit-loss estimates becomes substantially more sensitive to their working conditions under CECL.
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+**Dissertation Committee:** Kalin Kolev (Chair), Heedong Kim, Dexin Zhou, and Edgar Rodriguez-Vazquez
 
-  <!-- Generate cards for each project -->
+[Paper](/assets/pdf/Haozheng_Wang_JMP_20260806.pdf) &nbsp;&nbsp; [Slides]
 
-{% if page.horizontal %}
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+## Working Papers
+
+### Economic Policy Uncertainty and Stakeholder Attention in CSR Disclosure
+
+*with Mingyuan Kong*
+
+We examine how firms adjust CSR disclosure when economic policy uncertainty increases. We find that firms increase disclosure transparency and reallocate attention toward employee-related topics as uncertainty rises, with employee-focused disclosure associated with more favorable subsequent employee perceptions when uncertainty is high.
+
+**Under review at *The British Accounting Review***
+
+**Presented at:** FMA European Conference 2026; JAAF Symposium (International) 2026; European Financial Management Association Annual Meeting 2025; Financial Management & Accounting Research Conference 2025
+
+[Paper](/assets/pdf/CSR_EPU_Draft_July2026_BAR.pdf)
+
+
+### Retail Trading Activity and Informativeness of O/S
+
+*with Youngmin Choi and Heedong Kim*
+
+[Paper](/assets/pdf/OS.pdf)
