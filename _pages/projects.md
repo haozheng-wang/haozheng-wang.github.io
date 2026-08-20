@@ -6,6 +6,16 @@ nav: true
 nav_order: 2
 ---
 
+<style>
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+</style>
+
 ## Job Market Paper
 <hr style="border: 0; border-top: 1px solid #d9d9d9; margin-top: 0.3rem; margin-bottom: 1.2rem;">
 
