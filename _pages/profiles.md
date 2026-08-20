@@ -6,6 +6,16 @@ nav: true
 nav_order: 5
 ---
 
+<style>
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+</style>
+
 <div class="row">
 
   <div class="col-sm-6 mb-5">
