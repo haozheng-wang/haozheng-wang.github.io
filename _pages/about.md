@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Accounting @ Zicklin School of Business, Baruch Col
 
 profile:
   align: right
-  image: haozheng_profile.png
+  image: haozheng_profile_proper.png
   image_circular: false
   more_info: >
     <p></p>
