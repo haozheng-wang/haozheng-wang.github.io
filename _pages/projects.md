@@ -16,6 +16,7 @@ I examine how an information-intensive accounting standard affects the employees
 
 [Paper](/assets/pdf/Haozheng_Wang_JMP_20260806.pdf) &nbsp;&nbsp; [Slides]
 
+<div style="height: 24px;"></div>
 
 ## Working Papers
 
