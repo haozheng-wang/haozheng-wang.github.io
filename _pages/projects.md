@@ -7,6 +7,7 @@ nav_order: 2
 ---
 
 ## Job Market Paper
+<hr style="border: 0; border-top: 1px solid #d9d9d9; margin-top: 0.3rem; margin-bottom: 1.2rem;">
 
 ### The Human Capital Behind Accounting Estimates: Evidence from CECL Adoption
 
@@ -19,6 +20,7 @@ I examine how an information-intensive accounting standard affects the employees
 <div style="height: 24px;"></div>
 
 ## Working Papers
+<hr style="border: 0; border-top: 1px solid #d9d9d9; margin-top: 0.3rem; margin-bottom: 1.2rem;">
 
 ### Economic Policy Uncertainty and Stakeholder Attention in CSR Disclosure
 
