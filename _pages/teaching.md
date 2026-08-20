@@ -14,6 +14,8 @@ I use intuitive business problems and real-world financial statements to help st
 
 I also incorporate emerging technologies into the classroom by emphasizing how students should evaluate, verify, and take responsibility for AI-assisted accounting analysis rather than simply using technology to produce answers.
 
+[Teaching Statement](/assets/pdf/Teaching_Statement_Haozheng_Wang.pdf)  
+
 
 ## Experience
 
@@ -24,4 +26,6 @@ Instructor
 
 ACC 2101 introduces the student to financial accounting and includes the accounting cycle, fundamental concepts of accounting for business transactions, and preparation and analysis of financial statements.
 
-[Teaching Statement](/assets/pdf/Teaching_Statement_Haozheng_Wang.pdf)  
+[Teaching Evaluations](/assets/pdf/Teaching_Evaluations_Haozheng_Wang.pdf)
+
+
