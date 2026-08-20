@@ -7,6 +7,7 @@ nav_order: 4
 ---
 
 ## Philosophy
+<hr style="border: 0; border-top: 1px solid #d9d9d9; margin-top: 0.3rem; margin-bottom: 1.2rem;">
 
 My teaching is built around a simple principle: students should understand the economic substance behind accounting numbers before learning the mechanics used to produce them. 
 
@@ -19,6 +20,7 @@ I also incorporate emerging technologies into the classroom by emphasizing how s
 <div style="height: 32px;"></div>
 
 ## Experience
+<hr style="border: 0; border-top: 1px solid #d9d9d9; margin-top: 0.3rem; margin-bottom: 1.2rem;">
 
 ### Baruch College, Zicklin School of Business
 
