@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Ph.D. Candidate in Accounting @ Zicklin School of Business, Baruch College
+subtitle: Ph.D. Candidate
 
 profile:
   align: right
