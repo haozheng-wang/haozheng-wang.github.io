@@ -6,8 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-# References
-
 <div class="row">
 
   <div class="col-sm-6 mb-5">
@@ -26,8 +24,8 @@ nav_order: 5
     Baruch College, CUNY<br>
     <a href="mailto:Heedong.Kim@baruch.cuny.edu">Email</a>
   </div>
-  
-<div style="height: 24px;"></div>
+
+  <div class="w-100" style="height: 28px;"></div>
 
   <div class="col-sm-6 mb-5">
     <h4>Dexin Zhou</h4>
@@ -42,8 +40,7 @@ nav_order: 5
     <strong>OFFICIAL TITLE</strong><br>
     SCHOOL / DEPARTMENT<br>
     UNIVERSITY<br>
-    <a href="mailto:Edgar.Rodriguez-vazquez@
-baruch.cuny.edu">Email</a>
+    <a href="mailto:Edgar.Rodriguez-vazquez@baruch.cuny.edu">Email</a>
   </div>
 
 </div>
