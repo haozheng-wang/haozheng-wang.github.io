@@ -16,6 +16,7 @@ I also incorporate emerging technologies into the classroom by emphasizing how s
 
 [Teaching Statement](/assets/pdf/Teaching_Statement_Haozheng_Wang.pdf)  
 
+<div style="height: 32px;"></div>
 
 ## Experience
 
