@@ -1,8 +1,9 @@
 ---
-layout: single
-title: "CV"
+layout: page
 permalink: /cv/
-author_profile: false
+title: CV
+nav: true
+nav_order: 4
 ---
 
 <div style="width: 100%; height: 1050px;">
