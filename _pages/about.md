@@ -1,3 +1,4 @@
+
 ---
 layout: about
 title: Home
@@ -24,6 +25,17 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<style>
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 500;
+}
+</style>
 
 Welcome! I am a Ph.D. candidate in Accounting at the Zicklin School of Business, Baruch College. I am on the 2026–27 academic job market and expect to complete my Ph.D. in 2027.
 
