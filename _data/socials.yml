@@ -1,11 +1,14 @@
 # Social links displayed on the homepage
 # They appear in the order defined below.
 
+email: haozheng.wang1@baruch.cuny.edu
+
+linkedin_username: haozheng-wang-810838191
+
+scholar_userid: gYLS2akAAAAJ
+
 custom_social:
   logo: /assets/img/ssrn.png
   title: SSRN
   url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4459376
   
-linkedin_username: haozheng-wang-810838191
-
-email: haozheng.wang1@baruch.cuny.edu
