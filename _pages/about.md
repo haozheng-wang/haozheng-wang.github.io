@@ -27,8 +27,8 @@ latest_posts:
 
 Welcome! I am a Ph.D. candidate in Accounting at the Zicklin School of Business, Baruch College. I am on the 2026–27 academic job market and expect to complete my Ph.D. in 2027.
 
-My research examines how changes in firms' external information environments—including reporting requirements, macroeconomic conditions, public information supply, and information-production technologies—shape how accounting information is produced inside firms and communicated to external stakeholders.
+My research focuses on financial reporting and disclosure, with particular interests in how regulation, macroeconomic conditions, and emerging technologies shape firms’ information production and communication.
 
-My job market paper, The Human Capital Behind Accounting Estimates: Evidence from CECL Adoption, studies the human capital behind accounting estimates by examining how CECL adoption affects the employees responsible for producing expected credit loss estimates and how workforce conditions relate to the quality of those estimates.
+My job market paper, ***The Human Capital Behind Accounting Estimates: Evidence from CECL Adoption***, finds that CECL adoption strains the risk-management employees responsible for implementing the standard. It also finds that the informativeness of credit-loss estimates becomes substantially more sensitive to their working conditions under CECL.
 
 Prior to doctoral studies, I worked in assurance at EY Shanghai. My teaching at Baruch College has focused on introductory financial accounting.
