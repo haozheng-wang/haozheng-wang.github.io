@@ -36,4 +36,4 @@ We examine how firms adjust CSR disclosure when economic policy uncertainty incr
 
 *with Youngmin Choi and Heedong Kim*
 
-[Paper](/assets/pdf/OS.pdf)
+We examine the role of retail investors in the informativeness of options trading. We find that the option-to-stock trading volume ratio (O/S) is substantially more predictive of future stock returns when retail trading activity is high, suggesting that retail investors contribute value-relevant information to price discovery.
