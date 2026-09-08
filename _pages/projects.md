@@ -19,13 +19,13 @@ h1, h2, h3, h4, h5, h6 {
 ## Job Market Paper
 <hr style="border: 0; border-top: 1px solid #d9d9d9; margin-top: 0.3rem; margin-bottom: 1.2rem;">
 
-### The Human Capital Behind Accounting Estimates: Evidence from CECL Adoption
+### Workforce Strain in the Production of Accounting Estimates: Evidence from CECL Adoption
 
-I examine how an information-intensive accounting standard affects the employees responsible for producing accounting estimates and whether their working conditions matter for estimate quality. I find that CECL adoption strains risk-management employees responsible for implementing the standard. I also find that the informativeness of credit-loss estimates becomes substantially more sensitive to their working conditions under CECL.
+I examine whether an information-intensive accounting standard strains the specialized employees responsible for its implementation. Using regulatory filings and Glassdoor reviews classified by job function, I study U.S. banks' adoption of the current expected credit loss (CECL) standard through within-bank comparisons across employee functions. Following adoption, risk-function employees, who perform the forecasting and modeling required by CECL, report a decline in work-life balance relative to other employees in the same bank. Written reviews corroborate this increase in strain, with more complaints about workload and managerial support among risk-function employees. Credit-loss allowances are more predictive of subsequent net charge-offs when prior risk-function work-life balance is better relative to that of other employees. This association between workforce conditions and allowance informativeness is stronger under CECL than under the incurred-loss model, with the clearest statistical evidence at the two-quarter horizon. The findings document workforce strain as an employee burden of accounting regulation and connect it with the informativeness of accounting estimates.
 
 **Dissertation Committee:** Kalin Kolev (Chair), Heedong Kim, Dexin Zhou, and Edgar Rodriguez-Vazquez
 
-[Paper](/assets/pdf/Haozheng_Wang_JMP_20260806.pdf) &nbsp;&nbsp; [Slides]
+[Paper](/assets/pdf/Haozheng_Wang_JMP_20260906.pdf) &nbsp;&nbsp; [Slides]
 
 <div style="height: 24px;"></div>
 
