@@ -25,7 +25,7 @@ I examine whether an information-intensive accounting standard strains the speci
 
 **Dissertation Committee:** Kalin Kolev (Chair), Heedong Kim, Dexin Zhou, and Edgar Rodriguez-Vazquez
 
-[Paper](/assets/pdf/Haozheng_Wang_JMP_20260906.pdf) &nbsp;&nbsp; [Slides]
+[Paper](/assets/pdf/Haozheng_Wang_JMP.pdf) &nbsp;&nbsp; [Slides]
 
 <div style="height: 24px;"></div>
 
